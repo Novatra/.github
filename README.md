@@ -1,4 +1,4 @@
-# Novatra
+# [Novatra](https://novatra.in)
 
 We're different. We believe knowledge shouldn't be exploited for profit. Unlike money-hungry platforms, we 
 provide free, unbiased access to quality education and empower communities, not shareholders.
