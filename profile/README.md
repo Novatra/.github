@@ -38,7 +38,7 @@ At **Novatra**, we believe education should be accessible to all, not a privileg
 
 | ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=rabbitz&glasses=variant04) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha) |
 |:---:|:---:|:---:|:---:|
-| **Sagnik** | **Utkarsh** | **Soham** | **Dheeraj** |
+| **[Sagnik](https://github.com/datavorous)** | **[Utkarsh](https://github.com/Utkarsh-username)** | **[Soham](https://github.com/SpreadSheets600)** | **[Dheeraj](https://github.com/Indominus-Rexian)** |
 | Developer | Developer | Developer | Developer |
 
 </div>
