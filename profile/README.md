@@ -36,10 +36,17 @@ At **Novatra**, we believe education should be accessible to all, not a privileg
 
 <div align="center">
 
-| ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=rabbitz&glasses=variant04) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha) |
-|:---:|:---:|:---:|:---:|
-| **[Sagnik](https://github.com/datavorous)** | **[Utkarsh](https://github.com/Utkarsh-username)** | **[Soham](https://github.com/SpreadSheets600)** | **[Dheeraj](https://github.com/Indominus-Rexian)** |
-| Developer | Developer | Developer | Developer |
+
+
+| ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=rabbitz&glasses=variant04) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha) | ![Udit](https://api.dicebear.com/9.x/lorelei/svg?seed=nghtcrwlrr&glassesProbability=100&glasses=variant04) | ![Yash](https://api.dicebear.com/9.x/lorelei/svg?seed=john) | 
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **[Sagnik](https://github.com/datavorous)** | **[Utkarsh](https://github.com/Utkarsh-username)** | **[Soham](https://github.com/SpreadSheets600)** | **[Dheeraj](https://github.com/Indominus-Rexian)** | **[Udit](https://github.com/udit-001)** | **[Yash](https://github.com/DrakeDrac)** | 
+| Core Dev | Core Dev | Core Dev | Core Dev | Backend Dev | Backend Dev |
+
+
+
+
+
 
 </div>
 
