@@ -70,7 +70,7 @@ We're always looking to collaborate with passionate educators, developers, and i
 
 <div align="center">
 
-<sub>Made with ❤️ by the Novatra Team</sub>
+<h4>Made with ❤️ by the Novatra Team</h4>
 
 </div>
 
