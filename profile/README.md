@@ -38,15 +38,16 @@ At **Novatra**, we believe education should be accessible to all, not a privileg
 
 
 
-| ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=rabbitz&glasses=variant04) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha) | ![Udit](https://api.dicebear.com/9.x/lorelei/svg?seed=nghtcrwlrr&glassesProbability=100&glasses=variant04) | ![Yash](https://api.dicebear.com/9.x/lorelei/svg?seed=john) | 
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **[Sagnik](https://github.com/datavorous)** | **[Utkarsh](https://github.com/Utkarsh-username)** | **[Soham](https://github.com/SpreadSheets600)** | **[Dheeraj](https://github.com/Indominus-Rexian)** | **[Udit](https://github.com/udit-001)** | **[Yash](https://github.com/DrakeDrac)** | 
-| Core Dev | Core Dev | Core Dev | Core Dev | Backend Dev | Backend Dev |
+| ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01&size=96) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=rabbitz&glasses=variant04&size=96) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg&size=96) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha&size=96) | 
+|:---:|:---:|:---:|:---:|
+| **[Sagnik](https://github.com/datavorous)** | **[Utkarsh](https://github.com/Utkarsh-username)** | **[Soham](https://github.com/SpreadSheets600)** | **[Dheeraj](https://github.com/Indominus-Rexian)** |
+| Core Dev | Core Dev | Core Dev | Core Dev |
 
 
-
-
-
+| ![Udit](https://api.dicebear.com/9.x/lorelei/svg?seed=nghtcrwlrr&glassesProbability=100&glasses=variant04&size=96) | ![Yash](https://api.dicebear.com/9.x/lorelei/svg?seed=john&size=96) | 
+| :---:|:---:|
+| **[Udit](https://github.com/udit-001)** | **[Yash](https://github.com/DrakeDrac)** | 
+|  Backend Dev | Backend Dev |
 
 </div>
 
