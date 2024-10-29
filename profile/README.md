@@ -38,7 +38,7 @@ At **Novatra**, we believe education should be accessible to all, not a privileg
 
 
 
-| ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01&size=96) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=rabbitz&glasses=variant04&size=96) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg&size=96) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha&size=96) | 
+| ![Sagnik](https://api.dicebear.com/9.x/lorelei/svg?glassesProbability=100&seed=thor&glasses=variant01&size=96) | ![Utkarsh](https://api.dicebear.com/9.x/lorelei/svg?seed=Katherine&beard[]&earrings[]&eyebrows=variant01,variant02,variant06,variant07,variant08,variant09,variant10,variant11,variant12,variant13&eyes=variant02,variant04,variant06,variant08,variant10,variant11,variant12,variant14,variant17,variant20,variant21&frecklesColor=transparent&glasses[]&hair=variant04,variant08,variant39&head=variant03,variant04&mouth=happy01,happy02,happy03,happy04,happy06,happy11,happy14&size=96) | ![Soham](https://api.dicebear.com/9.x/lorelei/svg?seed=heisenberg&size=96) | ![Dheeraj](https://api.dicebear.com/9.x/lorelei/svg?seed=aksha&size=96) | 
 |:---:|:---:|:---:|:---:|
 | **[Sagnik](https://github.com/datavorous)** | **[Utkarsh](https://github.com/Utkarsh-username)** | **[Soham](https://github.com/SpreadSheets600)** | **[Dheeraj](https://github.com/Indominus-Rexian)** |
 | Core Dev | Core Dev | Core Dev | Core Dev |
